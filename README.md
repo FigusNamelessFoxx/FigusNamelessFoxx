@@ -6,10 +6,10 @@ And here comes to me that Front-End and creating websites and web apps is relati
 Also other thing that drags me to storing my project in GitHub was my recent disk faliure and huge data lost that included all my previous works and projects :<
 
 #### I also learn/do some other stuff that might be useful or interesting for me like:
-- **Drawing** - mostly cartoony furry arts or sometimes some anime stuff xP
+- **Drawing** - mostly cartoony furry arts or sometimes some anime stuff
 - **Graphic Design/Photo Editing** - creating layouts, banners for social media etc.
 - **Game Dev** - learning Unity and C# but I also worked in few project with my friends as Graphic Designer.
-- **Film Making/Video Editing** - I made some YT videos. Some of them are just shitpost but some of them took me more time to make.
+- **Film Making/Video Editing** - I make some YT videos. Some of them are just shitpost but some of them took me more time to make.
 
 #### If you want to talk or meet me more hit me up on my social media :P
 

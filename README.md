@@ -11,7 +11,7 @@ Also other thing that drags me to storing my project in GitHub was my recent dis
 - **Game Dev** - learning Unity and C# but I also worked in few project with my friends as Graphic Designer.
 - **Film Making/Video Editing** - I make some YT videos. Some of them are just shitpost but some of them took me more time to make.
 
-#### If you want to talk or meet me more hit me up on my social media :P
+#### If you want to talk or meet hit me up on my social media :P
 
 You can reach me on many social media which links are provided here: linktr.ee/figusorasu
 

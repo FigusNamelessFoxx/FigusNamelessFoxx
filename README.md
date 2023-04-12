@@ -2,7 +2,7 @@
 
 ### 21 y.o. self-learning programmer from Poland :P
 I started learning coding when I was in technical high school on profession "IT Specialist". At that time I started to learn basics of C/C++, and also web development - HTML, CSS, JS, PHP. Then after basics I learned in school I decided to learn more by my own. So I startet watchings tutorials and couses on YT. I tried to make some simple CMD games in C++ and Discord Bot in Python and some Unity/C# trying to learn how to make games. Finnaly I figured out that coding is really fun to me but I don't know exacly where to go. I only knew that I want to work as programmer. 
-For now I'm mostly focused on game development in Unity/C# and software development mostli in C++ because I know basics. I don't know exacly what to learn and where to go to improve myself so I just try to make some projects and most of the good ones are in public repos here.
+For now I'm mostly focused on game development in Unity/C#.
 
 #### I also learn/do some other stuff that might be useful or interesting for me like:
 - **Drawing** - mostly cartoony furry arts or sometimes some anime stuff
